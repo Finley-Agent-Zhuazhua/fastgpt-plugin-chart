@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+*.pkg
+*.tgz
+.env
+.env.*
+*.local
+secrets.json
+service-account*.json
